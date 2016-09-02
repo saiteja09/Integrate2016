@@ -13,7 +13,7 @@
 1. <a href="https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interaction-model-reference">Alexa Skills Kit Custom Interaction Model Reference</a>
 
 ###Official Sample Codes and documentation
-1. <a href="https://github.com/amzn/alexa-skills-kit-js">Sample Codes</a> along with documnetation how to setup them.
+1. <a href="https://github.com/amzn/alexa-skills-kit-js">Sample Codes</a> along with documentation how to setup them.
 2. <a href="https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/using-the-alexa-skills-kit-samples">Getting Started</a> with the Sample Codes
 
 ###Tutorials
