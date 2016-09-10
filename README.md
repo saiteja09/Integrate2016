@@ -7,4 +7,4 @@ Build a skill set for voice assistant services like Amazon Echo(Alexa) or Micros
 
 2. You have to consume OData API in order to develop the skill. We recommend using <a href="https://www.progress.com/cloud-data-integration">Progress DataDirect Cloud</a> to generate OData feed from the CRM Solutions that you are interested with.
 
-
+If you have any questions or if you want to talk to our team, we are also available on <a href="http://ddintegratehackathon.56k.co">Slack</a>
